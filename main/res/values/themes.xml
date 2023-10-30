@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MovieCatalog" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:windowBackground">@color/white_smoke</item>
+
+    </style>
+
+    <style name="ChipStyle" parent="Widget.Material3.Chip.Filter">
+
+        <item name="chipBackgroundColor">@color/chip_background_color</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:textColor">@color/chip_text_color</item>
+        <item name="checkedIconTint">@color/white</item>
+
+    </style>
+
+
+    <style name="Theme.MovieCatalog" parent="Base.Theme.MovieCatalog" />
+
+</resources>

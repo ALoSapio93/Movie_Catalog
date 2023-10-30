@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Movie Catalog</string>
+
+    <string name="navigation_drawer_open">Apri Drawer</string>
+    <string name="navigation_drawer_close">Chiudi Drawer</string>
+
+
+    <string name="more">More</string>
+
+    <!--Item Drawer_Menu -->
+    <string name="home">Home</string>
+    <string name="search">Cerca</string>
+    <string name="categories">Categorie</string>
+
+    <!--Tabs Item-->
+    <string name="tab_item_movies">Film</string>
+    <string name="tab_item_series">Serie TV</string>
+    <string name="tab_item_games">Giochi</string>
+
+
+    <!-- List Chips -->
+    <string name="All">Tutti</string>
+    <string name="Action">Azione</string>
+    <string name="Adventure">Avventura</string>
+    <string name="Drama">Drama</string>
+    <string name="Animation">Animazione</string>
+    <string name="Fantasy">Fantasy</string>
+    <string name="Comedy">Commedia</string>
+    <string name="Short">Short</string>
+    <string name="Family">Famiglia</string>
+    <string name="Crime">Crimine</string>
+    <string name="Documentary">Documentario</string>
+    <string name="Mystery">Mistero</string>
+    <string name="War">Guerra</string>
+    <string name="Romance">Romantico</string>
+    <string name="History">Storico</string>
+    <string name="Thriller">Thriller</string>
+
+
+    <!--Errors-->
+    <string name="no_connection">Nessuna connessione ad internet</string>
+
+
+    <!--Utils-->
+    <string name="empty_list">Ops! C\'è stato un problema, riprova più tardi</string>
+    <string name="empty_string" translatable="false"></string>
+
+
+    <string name="hello_blank_fragment">Blank Fragment</string>
+    <!--Ordinamento Film Fragment Category-->
+    <string name="a_z">A→Z</string>
+    <string name="z_a">Z→A</string>
+
+    <!--Languages-->
+    <string name="italian">Italiano</string>
+    <string name="english">Inglese</string>
+
+
+    <string name="settings">Impostazioni</string>
+    <string name="set_italian">Imposta lingua Italiana</string>
+    <string name="set_english">Imposta lingua Inglese</string>
+    <string name="set_language">Seleziona Lingua</string>
+    <string name="our_cinemas">I nostri Cinema</string>
+    <string name="no_location_perm_dialog">Non è possibile accedere alla tua posizione. L\'app vorrebbe accedere alla tua posizione senza la quale non sarebbe possibile accedere ad alcune funzionalità. Vuoi concedere i permessi?</string>
+    <string name="yes_string">Si</string>
+    <string name="no_string" translatable="false">No</string>
+
+</resources>
